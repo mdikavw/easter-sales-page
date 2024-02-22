@@ -1,4 +1,4 @@
-<div class="container-fluid p-5 bg-primary-bg d-flex flex-column align-items-center">
+<div class="container-fluid p-5 d-flex flex-column align-items-center">
     <h3 class="mb-5 fw-semibold">25 Viral Videos Pack for Your Content</h3>
 
     <div class="row justify-content-center align-items-center mb-5 px-5">

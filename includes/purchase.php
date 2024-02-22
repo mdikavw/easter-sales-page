@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col">
             <div class="card h-100">
-                <div class="card-header d-flex justify-content-center align-items-center bg-secondary text-white">
+                <div class="card-header d-flex justify-content-center align-items-center bg-secondary">
                     <h2>Commercial License</h2>
                 </div>
                 <div class="card-body d-flex flex-column">
@@ -41,7 +41,7 @@
         </div>
         <div class="col">
             <div class="card h-100">
-                <div class="card-header d-flex justify-content-center align-items-center bg-secondary text-white">
+                <div class="card-header d-flex justify-content-center align-items-center bg-secondary">
                     <h2>Private Label Rights</h2>
                 </div>
                 <div class="card-body d-flex flex-column">

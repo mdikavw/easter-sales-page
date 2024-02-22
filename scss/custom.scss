@@ -1,20 +1,25 @@
 @import '../node_modules/bootstrap/scss/functions';
 @import '../node_modules/bootstrap/scss/variables';
 
-$easter-pink: #ffc0cb;
-$easter-green: #98fb98;
-$easter-lavender: #e6e6fa;
-$easter-yellow: #ffffe0;
-$easter-blue: #87ceeb;
+$white: #ffffff;
 
 $theme-colors: (
-	'primary': $easter-pink,
-	'secondary': #e76d82,
-	'success': $easter-green,
-	'info': $easter-blue,
-	'warning': $easter-yellow,
-	'danger': $easter-lavender,
-	'light': #fbf1e7,
+	'light': #ffe6e6,
+	// Light Red
+	'dark': #2a5b72,
+	// Light Purple
+	'primary': #c2f0fc,
+	// Light Blue
+	'secondary': #a6e3e9,
+	// Light Cyan
+	'info': #cff4fc,
+	// Light Azure
+	'success': #d7ffb1,
+	// Light Green
+	'warning': #ffd8b1,
+	// Light Orange
+	'danger': #ffb1b1,
+	// Light Red
 );
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
