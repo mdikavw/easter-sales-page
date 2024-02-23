@@ -8,7 +8,7 @@
                 <div class="card-body d-flex flex-column">
                     <div class="mb-3">
                         <h4>Grant of License</h4>
-                        <p>
+                        <small>
                             1. You can add the content to a product that you plan to sell or give away for individual
                             use.<br>
                             2. You can modify the content (by removing, adding or otherwise editing any elements) to
@@ -22,10 +22,10 @@
                             6. You can sell or give away the original resell rights or offer any commercial rights to
                             this
                             content in any form.
-                        </p>
+                        </small>
 
                         <h4>Prohibited Actions</h4>
-                        <p>
+                        <small>
                             7. You cannot allow your customers to edit the documents or files. Please provide them with
                             a
                             PDF or other non-editable files. Your CAN do customizations on behalf of your customers, but
@@ -33,7 +33,7 @@
                             8. You cannot use EkitHub.com, Happy Dog Island Store Inc. or anyone connected with our
                             company
                             as the author of this content without prior written permission.<br>
-                        </p>
+                        </small>
                     </div>
                     <button class="btn btn-primary w-100 mt-auto">
                         <h3>BUY</h3>
@@ -49,7 +49,7 @@
                 <div class="card-body d-flex flex-column">
                     <div class="mb-3">
                         <h4>Grant of License</h4>
-                        <p>
+                        <small>
                             1. You can add the content to a product that you plan to sell or give away for individual
                             use.<br>
                             2. You can modify the content (by removing, adding or otherwise editing any elements) to
@@ -60,10 +60,10 @@
                             publish content.<br>
                             4. You can distribute the content as a viral report.<br>
                             5. You can add your name, URL or logo as the author/creator of this PLR content.
-                        </p>
+                        </small>
 
                         <h4>Prohibited Actions</h4>
-                        <p>
+                        <small>
                             6. You cannot list EkitHub.com, Happy Dog Island Store Inc. or anyone connected with our
                             company
                             as the author of this content. Why? This is private label rights content and we are offering
@@ -75,7 +75,7 @@
                             a
                             PDF or other non-editable files. Your CAN do customizations on behalf of your customers, but
                             they cannot make edits of the original files.
-                        </p>
+                        </small>
                     </div>
                     <button class="btn btn-primary w-100 mt-auto">
                         <h3>BUY</h3>
