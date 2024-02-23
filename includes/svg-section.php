@@ -1,7 +1,10 @@
-<div class="container-fluid p-5 d-flex flex-column align-items-center">
-    <h2 class="mb-5 fw-semibold">25 Printable SVGs for your products</h2>
-
-    <div class="row justify-content-center align-items-center mb-5 px-5">
+<div class="container-fluid p-5">
+    <div class="row justify-content-center">
+        <div class="col text-center">
+            <h2>25 Printable SVGs for your products</h2>
+        </div>
+    </div>
+    <div class="row justify-content-center align-items-center g-4">
         <div class="col-md-6 d-flex justify-content-center">
             <img src="https://via.placeholder.com/300x400" alt="Placeholder Image" />
         </div>
@@ -16,15 +19,11 @@
             </p>
         </div>
     </div>
-    <div class="row justify-content-center">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 justify-content-center mt-5">
         <?php for ($i = 0; $i < 10; $i++) : ?>
-        <div class="col-md-2">
+        <div class="d-flex justify-content-center">
             <img src="https://via.placeholder.com/300x400" class="img-fluid mb-4">
         </div>
-        <?php if (($i + 1) % 5 === 0) : ?>
-    </div>
-    <div class="row justify-content-center">
-        <?php endif; ?>
         <?php endfor; ?>
     </div>
 </div>

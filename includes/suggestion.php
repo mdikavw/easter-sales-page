@@ -1,8 +1,10 @@
 <div class="container-fluid p-5">
-    <div class="d-flex flex-column justify-content-center align-items-center">
-        <h1 class="fw-semibold mb-5">What Can You Do</h1>
+    <div class="row justify-content-center">
+        <div class="col text-center">
+            <h1>What Can You Do</h1>
+        </div>
     </div>
-    <div class="row row-cols-1 row-cols-4 g-4">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
         <div class="col">
             <div class="card h-100 p-4 bg-primary">
                 <div class="card-body d-flex gap-4 align-items-center">

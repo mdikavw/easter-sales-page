@@ -1,13 +1,13 @@
-<div class="container-fluid w-75 my-5">
-    <div class="row">
-        <div class="col">
+<div id="purchase" class="container p-5">
+    <div class="row g-4">
+        <div class="col-12 col-lg-6">
             <div class="card h-100">
                 <div class="card-header d-flex justify-content-center align-items-center bg-secondary">
                     <h2>Commercial License</h2>
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <div>
-                        <h6>Grant of License</h6>
+                    <div class="mb-3">
+                        <h4>Grant of License</h4>
                         <p>
                             1. You can add the content to a product that you plan to sell or give away for individual
                             use.<br>
@@ -24,7 +24,7 @@
                             content in any form.
                         </p>
 
-                        <h6>Prohibited Actions</h6>
+                        <h4>Prohibited Actions</h4>
                         <p>
                             7. You cannot allow your customers to edit the documents or files. Please provide them with
                             a
@@ -35,18 +35,20 @@
                             as the author of this content without prior written permission.<br>
                         </p>
                     </div>
-                    <button class="btn btn-primary w-100 mt-auto">BUY</button>
+                    <button class="btn btn-primary w-100 mt-auto">
+                        <h3>BUY</h3>
+                    </button>
                 </div>
             </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-lg-6">
             <div class="card h-100">
                 <div class="card-header d-flex justify-content-center align-items-center bg-secondary">
                     <h2>Private Label Rights</h2>
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <div>
-                        <h6>Grant of License</h6>
+                    <div class="mb-3">
+                        <h4>Grant of License</h4>
                         <p>
                             1. You can add the content to a product that you plan to sell or give away for individual
                             use.<br>
@@ -60,7 +62,7 @@
                             5. You can add your name, URL or logo as the author/creator of this PLR content.
                         </p>
 
-                        <h6>Prohibited Actions</h6>
+                        <h4>Prohibited Actions</h4>
                         <p>
                             6. You cannot list EkitHub.com, Happy Dog Island Store Inc. or anyone connected with our
                             company
@@ -75,7 +77,9 @@
                             they cannot make edits of the original files.
                         </p>
                     </div>
-                    <button class="btn btn-primary w-100 mt-auto">BUY</button>
+                    <button class="btn btn-primary w-100 mt-auto">
+                        <h3>BUY</h3>
+                    </button>
                 </div>
             </div>
         </div>

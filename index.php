@@ -16,7 +16,6 @@
 <body>
     <?php include './includes/headline.php' ?>
     <?php include './includes/cards.php' ?>
-    <div id="explore"></div>
     <?php include './includes/welcome.php' ?>
     <?php include './includes/summary.php' ?>
     <?php include './includes/cta.php' ?>
@@ -28,8 +27,7 @@
     <?php include './includes/cta.php' ?>
     <?php include './includes/suggestion.php' ?>
     <?php include './includes/closing.php' ?>
-    <div id="purchase"></div>
-    <?php include './includes/purchase.php' ?>
+    = <?php include './includes/purchase.php' ?>
 </body>
 
 </html>

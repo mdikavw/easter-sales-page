@@ -1,4 +1,4 @@
-<div class="container-fluid py-5">
+<div class="container-fluid my-5">
     <div class="d-flex flex-wrap align-items-center justify-content-center">
         <div class="card m-2">
             <img src="https://via.placeholder.com/400x150" class="card-img" alt="Placeholder Image" />

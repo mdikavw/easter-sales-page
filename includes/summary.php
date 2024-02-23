@@ -1,8 +1,10 @@
 <div class="container-fluid p-5 ">
-    <div class="d-flex flex-column justify-content-center align-items-center">
-        <h1 class="fw-semibold">What you'll get</h1>
+    <div class="row justify-content-center">
+        <div class="col text-center">
+            <h1>What you'll get</h1>
+        </div>
     </div>
-    <div class="row my-5">
+    <div class="row g-4">
         <div class="col-lg-6">
             <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
@@ -50,9 +52,6 @@
                 </div>
             </div>
         </div>
-    </div>
-
-    <div class="row my-5">
         <div class="col-lg-6">
             <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
@@ -95,9 +94,6 @@
                 </div>
             </div>
         </div>
-    </div>
-
-    <div class="row my-5">
         <div class="col-lg-6">
             <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
