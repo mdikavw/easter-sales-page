@@ -27,6 +27,7 @@
     <?php include './includes/video-section.php' ?>
     <?php include './includes/cta.php' ?>
     <?php include './includes/suggestion.php' ?>
+    <?php include './includes/closing.php' ?>
     <div id="purchase"></div>
     <?php include './includes/purchase.php' ?>
 </body>

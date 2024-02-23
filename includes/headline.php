@@ -15,7 +15,7 @@
             <button
                 class="btn btn-secondary px-5 py-3 my-5 fw-bold text-white d-flex align-items-center gap-3 rounded-5"
                 onclick="document.getElementById('explore').scrollIntoView()">
-                <div class="fs-4">
+                <div class="fs-5">
                     Explore
                 </div>
                 <i class="fas fa-angle-down fs-3"></i>
