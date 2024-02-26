@@ -6,12 +6,12 @@
     </div>
     <div class="row g-4">
         <div class="col-lg-6">
-            <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
+            <div class="card px-5 py-3 text-white bg-primary mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
-                    <i class="fas fa-shopping-bag fa-10x opacity-50 text-white position-absolute bottom-0 end-0"></i>
+                    <i class="fas fa-shopping-bag fa-10x opacity-25 text-dark position-absolute bottom-0 end-0"></i>
                     <div class="z-1 d-flex gap-4">
                         <div>
-                            <i class="fas fa-shopping-bag text-dark fs-2"></i>
+                            <i class="fas fa-shopping-bag text-white fs-2"></i>
                         </div>
                         <div>
                             <h3 class="card-title m-0">
@@ -29,12 +29,12 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
+            <div class="card px-5 py-3 text-white bg-primary mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
-                    <i class="fas fa-video fa-10x opacity-50 text-white position-absolute bottom-0 end-0"></i>
+                    <i class="fas fa-video fa-10x opacity-25 text-dark position-absolute bottom-0 end-0"></i>
                     <div class="z-1 d-flex gap-4">
                         <div>
-                            <i class="fas fa-video text-dark fs-2"></i>
+                            <i class="fas fa-video text-white fs-2"></i>
                         </div>
                         <div>
                             <h3 class="card-title m-0">
@@ -53,12 +53,12 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
+            <div class="card px-5 py-3 text-white bg-primary mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
-                    <i class="fas fa-palette fa-10x opacity-50 text-white position-absolute bottom-0 end-0"></i>
+                    <i class="fas fa-palette fa-10x opacity-25 text-dark position-absolute bottom-0 end-0"></i>
                     <div class="z-1 d-flex gap-4">
                         <div>
-                            <i class="fas fa-palette text-dark fs-2"></i>
+                            <i class="fas fa-palette text-white fs-2"></i>
                         </div>
                         <div>
                             <h3 class="card-title m-0">Interactive Coloring Books for All Ages</h3>
@@ -74,12 +74,12 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
+            <div class="card px-5 py-3 text-white bg-primary mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
-                    <i class="fas fa-quote-right fa-10x opacity-50 text-white position-absolute bottom-0 end-0"></i>
+                    <i class="fas fa-quote-right fa-10x opacity-25 text-dark position-absolute bottom-0 end-0"></i>
                     <div class="z-1 d-flex gap-4">
                         <div>
-                            <i class="fas fa-quote-right text-dark fs-2"></i>
+                            <i class="fas fa-quote-right text-white fs-2"></i>
                         </div>
                         <div>
                             <h3 class="card-title m-0">Inspirational Easter Quotes to Share</h3>
@@ -95,12 +95,12 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card px-5 py-3 bg-info mb-3 h-100 p-2 position-relative overflow-hidden">
+            <div class="card px-5 py-3 text-white bg-primary mb-3 h-100 p-2 position-relative overflow-hidden">
                 <div class="card-body d-flex flex-column align-items-center">
-                    <i class="fas fa-heart fa-10x opacity-50 text-white position-absolute bottom-0 end-0"></i>
+                    <i class="fas fa-heart fa-10x opacity-25 text-dark position-absolute bottom-0 end-0"></i>
                     <div class="z-1 d-flex gap-4">
                         <div>
-                            <i class="fas fa-heart text-dark fs-2"></i>
+                            <i class="fas fa-heart text-white fs-2"></i>
                         </div>
                         <div>
                             <h3 class="card-title m-0">Customized Post Content Tailored for Your Brand</h3>
@@ -115,7 +115,7 @@
             </div>
         </div>
         <div class="col-lg-6">
-            <div class="card px-5 py-3 bg-info mb-3 h-100 p-2">
+            <div class="card px-5 py-3 text-white bg-primary mb-3 h-100 p-2">
                 <div class="card-body d-flex flex-column align-items-center">
                     <h3 class="card-title m-0">Why Choose Us?</h3>
                     <ul>

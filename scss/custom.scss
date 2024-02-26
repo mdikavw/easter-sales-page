@@ -4,22 +4,14 @@
 $white: #ffffff;
 
 $theme-colors: (
-	'light': #ffe6e6,
-	// Light Red
-	'dark': #2a5b72,
-	// Light Purple
-	'primary': #c2f0fc,
-	// Light Blue
-	'secondary': #a6e3e9,
-	// Light Cyan
-	'info': #cff4fc,
-	// Light Azure
-	'success': #d7ffb1,
-	// Light Green
-	'warning': #ffd8b1,
-	// Light Orange
-	'danger': #ffb1b1,
-	// Light Red
+	'primary': #2a5b72,
+	'secondary': #6c757d,
+	'success': #28a745,
+	'info': #17a2b8,
+	'warning': #ffc107,
+	'danger': #dc3545,
+	'light': #f8f9fa,
+	'dark': #343a40,
 );
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss';

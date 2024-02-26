@@ -1,5 +1,5 @@
-<div class="container-fluid p-5 bg-secondary">
-    <div class="d-flex flex-column justify-content-center align-items-center text-center">
+<div class="container-fluid p-5 bg-primary">
+    <div class="d-flex flex-column justify-content-center align-items-center text-center text-white">
         <h1 class="mb-3 fw-semibold">Get this Collection Before the Offer Ends</h1>
         <p class="w-75">
             Unlock the ultimate Easter creativity! Elevate your celebrations with our exclusive digital products.

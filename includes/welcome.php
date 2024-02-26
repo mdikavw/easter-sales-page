@@ -1,4 +1,4 @@
-<div id="explore" class="container-fluid p-5 bg-primary">
+<div id="explore" class="container-fluid px-5 bg-primary text-white">
     <div class="row justify-content-center">
         <div class="col text-center">
             <h1>Welcome to Our Easter Collection</h1>

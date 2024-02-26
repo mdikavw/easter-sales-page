@@ -2,8 +2,8 @@
     <div class="row g-4">
         <div class="col-12 col-lg-6">
             <div class="card h-100">
-                <div class="card-header d-flex justify-content-center align-items-center bg-secondary">
-                    <h2>Commercial License</h2>
+                <div class="card-header d-flex justify-content-center align-items-center bg-primary text-white">
+                    <h2 class="p-0 m-0">Commercial License</h2>
                 </div>
                 <div class="card-body d-flex flex-column">
                     <div class="mb-3">
@@ -50,8 +50,8 @@
         </div>
         <div class="col-12 col-lg-6">
             <div class="card h-100">
-                <div class="card-header d-flex justify-content-center align-items-center bg-secondary">
-                    <h2>Private Label Rights</h2>
+                <div class="card-header d-flex justify-content-center align-items-center bg-primary text-white">
+                    <h2 class="p-0 m-0">Private Label Rights</h2>
                 </div>
                 <div class="card-body d-flex flex-column">
                     <div class="mb-3">
