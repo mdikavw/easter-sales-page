@@ -4,7 +4,7 @@
         <div
             class="container-fluid h-100 w-100 d-flex flex-column justify-content-center align-items-center gap-4 text-white z-1 position-absolute">
             <div class="d-flex flex-column justify-content-center align-items-center">
-                <h1>
+                <h1 style="font-size: 3rem;">
                     New season, new savings! Shop our Easter collection now!
                 </h1>
                 <p>

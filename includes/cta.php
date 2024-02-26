@@ -1,4 +1,4 @@
-<div class="container-fluid p-5 bg-dark">
+<div class="container-fluid my-5 p-5 bg-dark">
     <div class="row justify-content-center">
         <div class="col-10 d-flex justify-content-center align-items-center"><button
                 class="btn btn-secondary px-5 py-4 my-3 text-dark fw-bold d-flex justify-content-center align-items-center gap-5 rounded-3"
@@ -10,6 +10,11 @@
     <div class="row justify-content-center">
         <div class="col text-center">
             <p class="serif fs-3 text-white">Limited Time Offer - 50% off only for today!</p>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col d-flex justify-content-center">
+            <img src="asset/payment-service.png">
         </div>
     </div>
 </div>

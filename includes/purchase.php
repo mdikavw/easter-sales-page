@@ -35,9 +35,16 @@
                             as the author of this content without prior written permission.<br>
                         </small>
                     </div>
-                    <button class="btn btn-primary w-100 mt-auto">
-                        <strong class="fs-3">BUY</strong>
-                    </button>
+                    <div class="div mt-auto d-flex flex-column justify-content-center align-items-center">
+                        <div class="w-100 d-flex justify-content-between">
+                            <p class="text-decoration-line-through">Regular Price: $29.03</p>
+                            <p class="fw-bold">Today's Price: $14.50</p>
+                        </div>
+                        <button class="btn btn-primary w-100">
+                            <strong class="fs-3">BUY</strong>
+                        </button>
+                        <img src="asset/payment-service.png" alt="" width="60%" class="mt-3">
+                    </div>
                 </div>
             </div>
         </div>
@@ -77,9 +84,16 @@
                             they cannot make edits of the original files.
                         </small>
                     </div>
-                    <button class="btn btn-primary w-100 mt-auto">
-                        <strong class="fs-3">BUY</strong>
-                    </button>
+                    <div class="div mt-auto d-flex flex-column justify-content-center align-items-center">
+                        <div class="w-100 d-flex justify-content-between">
+                            <p class="text-decoration-line-through">Regular Price: $29.03</p>
+                            <p class="fw-bold">Today's Price: $14.50</p>
+                        </div>
+                        <button class="btn btn-danger w-100">
+                            <strong class="fs-3">BUY</strong>
+                        </button>
+                        <img src="asset/payment-service.png" alt="" width="60%" class="mt-3">
+                    </div>
                 </div>
             </div>
         </div>

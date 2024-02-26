@@ -1,5 +1,8 @@
 <div class="container-fluid">
-    <div class="row p-5 bg-primary">
+    <div class="row p-5 coloring-book-section">
+        <?php
+            include 'includes/components/curved-bg.php'
+        ?>
         <div class="row justify-content-center">
             <div class="col text-center">
                 <h2>Coloring Book Bundle</h2>

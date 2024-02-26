@@ -1,5 +1,8 @@
 <div class="container-fluid">
-    <div class="row p-5 bg-primary">
+    <div class="row p-5 story-section">
+        <?php
+            include 'includes/components/curved-bg.php'
+        ?>
         <div class="row justify-content-center">
             <div class="col text-center">
                 <h2>Easter Bliss: Content Template Collection</h2>
@@ -19,15 +22,20 @@
                 </p>
             </div>
             <div class="col-md-6 d-flex justify-content-center">
-                <img src="https://via.placeholder.com/300x400" alt="Placeholder Image" />
+                <img src="asset/pinterest-story/1.png" width="300" alt="Placeholder Image" />
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 justify-content-center p-5">
-        <?php for ($i = 0; $i < 10; $i++) : ?>
-        <div class="col d-flex justify-content-center">
-            <img src="https://via.placeholder.com/300x400" class="img-fluid mb-4">
-        </div>
-        <?php endfor; ?>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 justify-content-center p-5 g-4">
+        <?php
+            $dir = "asset/pinterest-story";
+            $pngFiles = [];
+            for ($i = 1; $i <= 35; $i++) {
+                $pngFiles[] = $i . '.png';
+            }
+            foreach ($pngFiles as $pngFile) {
+                echo '<img src="' . $dir . '/' . $pngFile . '" alt="' . $pngFile . '" style="max-width: 300px">';
+            }
+        ?>
     </div>
 </div>

@@ -14,7 +14,7 @@
                             <i class="fas fa-shopping-bag text-dark fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title">
+                            <h3 class="card-title m-0">
                                 Easter SVGs for Eye-Catching Designs
                             </h3>
                             <p class="card-text">
@@ -37,7 +37,7 @@
                             <i class="fas fa-video text-dark fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title">
+                            <h3 class="card-title m-0">
                                 Engaging Video Posts to Tell Your Story
                             </h3>
                             <p class="card-text">
@@ -61,7 +61,7 @@
                             <i class="fas fa-palette text-dark fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title">Interactive Coloring Books for All Ages</h3>
+                            <h3 class="card-title m-0">Interactive Coloring Books for All Ages</h3>
                             <p class="card-text">Our Easter-themed coloring books are perfect for entertaining both kids
                                 and
                                 adults. With intricate designs and delightful themes, these coloring books are sure to
@@ -82,7 +82,7 @@
                             <i class="fas fa-quote-right text-dark fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title">Inspirational Easter Quotes to Share</h3>
+                            <h3 class="card-title m-0">Inspirational Easter Quotes to Share</h3>
                             <p class="card-text">Captivate your audience with our Easter quotes. From heartfelt messages
                                 to
                                 funny quips, our collection of quotes is perfect for social media posts, blog articles,
@@ -103,7 +103,7 @@
                             <i class="fas fa-heart text-dark fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title">Customized Post Content Tailored for Your Brand</h3>
+                            <h3 class="card-title m-0">Customized Post Content Tailored for Your Brand</h3>
                             <p class="card-text">Don't have time to create your own content? Let our team of experts
                                 craft
                                 compelling Easter-themed posts for you. We'll help you connect with your audience and
@@ -117,7 +117,7 @@
         <div class="col-lg-6">
             <div class="card px-5 py-3 bg-info mb-3 h-100 p-2">
                 <div class="card-body d-flex flex-column align-items-center">
-                    <h3 class="card-title">Why Choose Us?</h3>
+                    <h3 class="card-title m-0">Why Choose Us?</h3>
                     <ul>
                         <li class="card-text">Premium Quality: Our products are crafted with care and attention to
                             detail.</li>

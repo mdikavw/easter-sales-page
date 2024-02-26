@@ -25,6 +25,7 @@
     <?php include './includes/story-section.php' ?>
     <?php include './includes/video-section.php' ?>
     <?php include './includes/cta.php' ?>
+    <?php include './includes/ideas.php'?>
     <?php include './includes/suggestion.php' ?>
     <?php include './includes/closing.php' ?>
     <?php include './includes/purchase.php' ?>

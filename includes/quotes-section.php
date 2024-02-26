@@ -1,5 +1,8 @@
 <div class="container-fluid">
-    <div class="row p-5 bg-primary">
+    <div class="row p-5 quotes-section">
+    <?php
+            include 'includes/components/curved-bg.php'
+        ?>
         <div class="row justify-content-center">
             <div class="col text-center">
                 <h2>25 Heart-warming Easter Quotes</h2>

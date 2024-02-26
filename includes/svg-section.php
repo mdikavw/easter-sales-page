@@ -1,5 +1,8 @@
 <div class="container-fluid">
-    <div class="row p-5 bg-primary">
+    <div class="row p-5 svg-section">
+        <?php
+            include 'includes/components/curved-bg.php'
+        ?>
         <div class="row justify-content-center">
             <div class="col text-center">
                 <h2>25 Printable SVGs for your products</h2>
@@ -23,10 +26,10 @@
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 justify-content-center p-5">
+    <div class="row row-cols-1 row-cols-md-2 justify-content-center p-5">
         <?php for ($i = 0; $i < 10; $i++) : ?>
         <div class="d-flex justify-content-center">
-            <img src="https://via.placeholder.com/300x400" class="img-fluid mb-4">
+            <img src="https://via.placeholder.com/700x350" class="img-fluid mb-4">
         </div>
         <?php endfor; ?>
     </div>
