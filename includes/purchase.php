@@ -36,7 +36,7 @@
                         </small>
                     </div>
                     <button class="btn btn-primary w-100 mt-auto">
-                        <h3>BUY</h3>
+                        <strong class="fs-3">BUY</strong>
                     </button>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                         </small>
                     </div>
                     <button class="btn btn-primary w-100 mt-auto">
-                        <h3>BUY</h3>
+                        <strong class="fs-3">BUY</strong>
                     </button>
                 </div>
             </div>
