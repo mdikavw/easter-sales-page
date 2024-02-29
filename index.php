@@ -31,7 +31,7 @@
     <?php include './includes/purchase.php' ?>
     <?php include './includes/faq.php' ?>
 
-    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 
 </body>
 

@@ -23,7 +23,7 @@
     </div>
     <div class="row justify-content-center align-items-center">
         <div class="col d-flex justify-content-center">
-            <img src="https://via.placeholder.com/300x400" alt="">
+            <img src="asset/ideas/merchandise.png" alt="">
         </div>
         <div class="col">
             <div class="card">
