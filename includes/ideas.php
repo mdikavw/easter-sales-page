@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="col d-flex justify-content-center">
-            <img src="https://via.placeholder.com/300x400" alt="">
+            <img src="asset/ideas/t-shirt.png" alt="">
         </div>
     </div>
     <div class="row justify-content-center align-items-center">

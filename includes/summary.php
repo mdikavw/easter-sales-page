@@ -14,10 +14,10 @@
                             <i class="fas fa-shopping-bag text-white fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title m-0">
+                            <h3 class="card-title m-0 mb-3">
                                 Easter SVGs for Eye-Catching Designs
                             </h3>
-                            <p class="card-text">
+                            <p>
                                 Our Easter SVGs are designed to inspire creativity. From
                                 adorable bunnies to colorful eggs, each design is ready to be
                                 used in your projects. Use them for banners, advertisements,
@@ -37,10 +37,10 @@
                             <i class="fas fa-video text-white fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title m-0">
+                            <h3 class="card-title m-0 mb-3">
                                 Engaging Video Posts to Tell Your Story
                             </h3>
-                            <p class="card-text">
+                            <p>
                                 Video content is a powerful way to engage your audience. Our
                                 pre-designed Easter video posts are a simple way to create
                                 stunning content that captures attention and drives engagement.
@@ -61,8 +61,8 @@
                             <i class="fas fa-palette text-white fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title m-0">Interactive Coloring Books for All Ages</h3>
-                            <p class="card-text">Our Easter-themed coloring books are perfect for entertaining both kids
+                            <h3 class="card-title m-0 mb-3">Interactive Coloring Books for All Ages</h3>
+                            <p>Our Easter-themed coloring books are perfect for entertaining both kids
                                 and
                                 adults. With intricate designs and delightful themes, these coloring books are sure to
                                 keep
@@ -82,8 +82,8 @@
                             <i class="fas fa-quote-right text-white fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title m-0">Inspirational Easter Quotes to Share</h3>
-                            <p class="card-text">Captivate your audience with our Easter quotes. From heartfelt messages
+                            <h3 class="card-title m-0 mb-3">Inspirational Easter Quotes to Share</h3>
+                            <p>Captivate your audience with our Easter quotes. From heartfelt messages
                                 to
                                 funny quips, our collection of quotes is perfect for social media posts, blog articles,
                                 or
@@ -103,8 +103,8 @@
                             <i class="fas fa-heart text-white fs-2"></i>
                         </div>
                         <div>
-                            <h3 class="card-title m-0">Customized Post Content Tailored for Your Brand</h3>
-                            <p class="card-text">Don't have time to create your own content? Let our team of experts
+                            <h3 class="card-title m-0 mb-3">Customized Post Content Tailored for Your Brand</h3>
+                            <p>Don't have time to create your own content? Let our team of experts
                                 craft
                                 compelling Easter-themed posts for you. We'll help you connect with your audience and
                                 showcase
@@ -117,14 +117,20 @@
         <div class="col-lg-6">
             <div class="card px-5 py-3 text-white bg-primary mb-3 h-100 p-2">
                 <div class="card-body d-flex flex-column align-items-center">
-                    <h3 class="card-title m-0">Why Choose Us?</h3>
+                    <h3 class="card-title m-0 mb-3">Why Choose Us?</h3>
                     <ul>
-                        <li class="card-text">Premium Quality: Our products are crafted with care and attention to
-                            detail.</li>
-                        <li class="card-text">Easy to Use: Our products are user-friendly, allowing you to create
-                            stunning content effortlessly.</li>
-                        <li class="card-text">Affordable Pricing: We offer competitive pricing so you can get the most
-                            value for your investment.</li>
+                        <li>
+                            <p>Premium Quality: Our products are crafted with care and attention to
+                                detail.</p>
+                        </li>
+                        <li>
+                            <p>Easy to Use: Our products are user-friendly, allowing you to create
+                                stunning content effortlessly.</p>
+                        </li>
+                        <li>
+                            <p>Affordable Pricing: We offer competitive pricing so you can get the most
+                                value for your investment.</p>
+                        </li>
                     </ul>
                 </div>
             </div>

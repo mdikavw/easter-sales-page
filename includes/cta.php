@@ -1,4 +1,4 @@
-<div class="container-fluid my-5 p-5 bg-dark">
+<div class="container-fluid my-5 p-5 bg-secondary">
     <div class="row justify-content-center">
         <div class="col-10 d-flex justify-content-center align-items-center"><button
                 class="btn btn-primary px-5 py-4 my-3 text-white fw-bold d-flex justify-content-center align-items-center gap-5 rounded-3"

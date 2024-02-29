@@ -30,7 +30,7 @@
         <?php
             $dir = "asset/pinterest-story";
             $pngFiles = [];
-            for ($i = 1; $i <= 35; $i++) {
+            for ($i = 1; $i <= 15; $i++) {
                 $pngFiles[] = $i . '.png';
             }
             foreach ($pngFiles as $pngFile) {

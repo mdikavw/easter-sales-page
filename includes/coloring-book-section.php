@@ -27,11 +27,16 @@
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 justify-content-center p-5">
-        <?php for ($i = 0; $i < 10; $i++) : ?>
-        <div class="col d-flex justify-content-center">
-            <img src="https://via.placeholder.com/300x400" class="img-fluid mb-4">
-        </div>
-        <?php endfor; ?>
+    <div class="row row-cols-1 row-cols-md-2 justify-content-center p-5">
+        <?php
+            $dir = "asset/coloring-book";
+            $pngFiles = [];
+            for ($i = 1; $i <= 6; $i++) {
+                $pngFiles[] = $i . '.png';
+            }
+            foreach ($pngFiles as $pngFile) {
+                echo '<img src="' . $dir . '/' . $pngFile . '" alt="' . $pngFile . '">';
+            }
+        ?>
     </div>
 </div>
