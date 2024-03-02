@@ -26,15 +26,15 @@
             </div>
         </div>
     </div>
-    <div class="row-cols-2 justify-content-center p-5">
+    <div class="row row-cols-1 row-cols-md-2 justify-content-center p-5">
         <?php
             $dir = "asset/svg-display";
             $pngFiles = [];
-            for ($i = 1; $i <= 6; $i++) {
+            for ($i = 1; $i <= 4; $i++) {
                 $pngFiles[] = $i . '.png';
             }
             foreach ($pngFiles as $pngFile) {
-                echo '<img src="' . $dir . '/' . $pngFile . '" alt="' . $pngFile . '">';
+                echo '<img src="' . $dir . '/' . $pngFile . '" alt="' . $pngFile . '" style ="padding: 0;">';
             }
         ?>
     </div>
