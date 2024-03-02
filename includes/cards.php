@@ -3,16 +3,16 @@
         <div class="carousel-item active">
             <img src="asset/carousel/1.png" class="d-block w-50 m-auto" alt="..." style="max-width: none">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
             <img src="asset/carousel/2.png" class="d-block w-50 m-auto" alt="..." style="max-width: none">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
             <img src="asset/carousel/3.png" class="d-block w-50 m-auto" alt="..." style="max-width: none">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
             <img src="asset/carousel/4.png" class="d-block w-50 m-auto" alt="..." style="max-width: none">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
             <img src="asset/carousel/5.png" class="d-block w-50 m-auto" alt="..." style="max-width: none">
         </div>
     </div>
