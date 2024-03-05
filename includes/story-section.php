@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 story-section">
+    <div class="row story-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -9,8 +9,8 @@
             </div>
         </div>
         <div class="row justify-content-center align-items-center g-4">
-            <div class="col-md-6">
-                <p>
+            <div class="col-md-5">
+                <p id="headline-content">
                     Are you ready for Easter? 🐣 Our Easter Bliss: Digital Collection is here to make your holiday
                     marketing
                     easy and fun. With beautifully designed Pinterest pins, Instagram Stories templates, and
@@ -21,12 +21,12 @@
                     audience this Easter season!
                 </p>
             </div>
-            <div class="col-md-6 d-flex justify-content-center">
+            <div class="col-md-6 d-flex justify-content-center mb-5">
                 <img src="asset/pinterest-story/1.png" width="300" alt="Placeholder Image" />
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 justify-content-center p-5 g-4">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-5 justify-content-center mt-5 g-4">
         <?php
             $dir = "asset/pinterest-story";
             $pngFiles = [];

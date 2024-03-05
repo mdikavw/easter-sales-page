@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 video-section">
+    <div class="row video-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -10,11 +10,11 @@
         </div>
 
         <div class="row justify-content-center align-items-center g-4">
-            <div class="col-md-6 d-flex justify-content-center">
+            <div class="col-md-5 d-flex justify-content-center mb-5">
                 <img src="asset/video-display/display.png" alt="Placeholder Image" />
             </div>
-            <div class="col-md-6">
-                <p>
+            <div class="col-md-5">
+                <p id="headline-content">
                     We've simplified the process so you can effortlessly design t-shirts, mugs, notebooks, stickers,
                     towels,
                     phone cases, and more. You have the flexibility to use these ready-made templates or, for advanced
@@ -33,7 +33,7 @@
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-lg-2 justify-content-center p-5 g-4">
+    <div class="row row-cols-1 row-cols-lg-2 justify-content-center mt-5 g-4">
         <iframe width="560" height="480" src="https://www.youtube.com/embed/1VE0gnKq0_8?si=p5wCTlBRsxS95q_I"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

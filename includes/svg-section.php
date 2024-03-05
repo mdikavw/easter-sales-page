@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 svg-section">
+    <div class="row svg-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -10,10 +10,10 @@
         </div>
         <div class="row justify-content-center align-items-center g-4">
             <div class="col-md-6 d-flex justify-content-center">
-                <img src="asset/svg-display/display.png" alt="Placeholder Image" style="border-radius: 8px" />
+                <img src="asset/svg-display/display.png" alt="Placeholder Image" style="width: 100%;" />
             </div>
             <div class="col-md-6">
-                <p>
+                <p id="headline-content">
                     We've simplified the process so you can effortlessly design t-shirts, mugs, notebooks, stickers,
                     towels,
                     phone cases, and more. You have the flexibility to use these ready-made templates or, for advanced
@@ -26,7 +26,7 @@
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 justify-content-center p-5">
+    <div class="row row-cols-1 row-cols-md-2 justify-content-center">
         <?php
             $dir = "asset/svg-display";
             $pngFiles = [];

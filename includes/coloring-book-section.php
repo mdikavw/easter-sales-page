@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 coloring-book-section">
+    <div class="row coloring-book-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -9,8 +9,8 @@
             </div>
         </div>
         <div class="row justify-content-center align-items-center g-4">
-            <div class="col-md-6">
-                <p>
+            <div class="col-md-5">
+                <p id="headline-content">
                     Easter isn't just about egg hunts and chocolate bunnies—it's also a time for creativity and
                     relaxation.
                     Coloring isn't just for kids; it's a proven stress-reliever for adults too, and a perfect addition
@@ -27,7 +27,7 @@
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 justify-content-center p-5">
+    <div class="row row-cols-1 row-cols-md-2 justify-content-center">
         <?php
             $dir = "asset/coloring-book";
             $pngFiles = [];

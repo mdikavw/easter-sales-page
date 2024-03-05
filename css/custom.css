@@ -743,9 +743,11 @@ progress {
   margin-left: auto;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 576px) { /* HP */
   .container-sm, .container {
     max-width: 540px;
+
+    
   }
 }
 @media (min-width: 768px) {
@@ -768,6 +770,7 @@ progress {
     max-width: 1320px;
   }
 }
+
 :root {
   --bs-breakpoint-xs: 0;
   --bs-breakpoint-sm: 576px;

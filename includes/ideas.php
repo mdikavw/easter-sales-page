@@ -5,7 +5,7 @@
         </div>
     </div>
     <div class="row justify-content-center align-items-center">
-        <div class="col">
+        <div class="col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h4>T-Shirt</h4>
@@ -17,15 +17,15 @@
                 </div>
             </div>
         </div>
-        <div class="col d-flex justify-content-center">
+        <div class="col-sm-6 d-flex justify-content-center order-first order-md-last">
             <img src="asset/ideas/t-shirt.png" alt="">
         </div>
     </div>
     <div class="row justify-content-center align-items-center">
-        <div class="col d-flex justify-content-center">
+    <div class="col-sm-6 d-flex justify-content-center">
             <img src="asset/ideas/merchandise.png" alt="">
         </div>
-        <div class="col">
+        <div class="col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h4>Merchandise</h4>
@@ -39,7 +39,10 @@
         </div>
     </div>
     <div class="row justify-content-center align-items-center">
-        <div class="col">
+        <div class="col-sm-6 d-flex justify-content-center order-first order-md-last">
+            <img src="asset/ideas/gift.png" alt="">
+        </div>
+        <div class="col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h4>Customized Gifts</h4>
@@ -51,15 +54,12 @@
                 </div>
             </div>
         </div>
-        <div class="col d-flex justify-content-center">
-            <img src="asset/ideas/gift.png" alt="">
-        </div>
     </div>
     <div class="row justify-content-center align-items-center">
-        <div class="col d-flex justify-content-center">
+    <div class="col-sm-6 d-flex justify-content-center">
             <img src="asset/video-display/display.png" alt="">
         </div>
-        <div class="col">
+        <div class="col-sm-6">
             <div class="card">
                 <div class="card-body">
                     <h4>Social Media Viral Content</h4>

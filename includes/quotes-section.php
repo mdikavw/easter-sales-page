@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <div class="row p-5 quotes-section">
+    <div class="row quotes-section">
         <?php
             include 'includes/components/curved-bg.php'
         ?>
@@ -9,11 +9,11 @@
             </div>
         </div>
         <div class="row justify-content-center align-items-center g-4">
-            <div class="col-md-6 d-flex justify-content-center">
+            <div class="col-md-6 d-flex justify-content-center mb-5">
                 <img src="https://via.placeholder.com/300x400" alt="Placeholder Image" />
             </div>
             <div class="col-md-6">
-                <p>
+                <p id="headline-content">
                     We've simplified the process so you can effortlessly design t-shirts, mugs, notebooks, stickers,
                     towels,
                     phone cases, and more. You have the flexibility to use these ready-made templates or, for advanced
@@ -32,7 +32,7 @@
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 justify-content-center p-5">
+    <div class="row row-cols-1 justify-content-center">
         <?php
             $dir = "asset/easter-quotes";
             $pngFiles = [];

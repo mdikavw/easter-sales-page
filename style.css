@@ -175,3 +175,43 @@ img {
 	right: 0;
 	height: 50%;
 }
+
+@media (max-width: 576px) { /*HP*/
+	#headline {
+		font-size: 2.5rem;
+	}
+
+	#headline-content {
+		font-size: 1.2rem;
+		text-align: center;
+	}
+
+	#headline-caption {
+		font-size: 1.2rem;
+	}
+
+	#title-summary {
+		font-size: 1.5rem;
+	}
+
+	#content-summary {
+		font-size: 1.2rem;
+	}
+
+
+}
+
+@media (min-width: 768px) { /*Laptop*/
+	#headline {
+	font-size: 4rem;
+	}
+
+	#img-welcome {
+		width: 70%;
+	}
+
+	#btn-cta {
+		width: 50%;
+	}
+	
+}
