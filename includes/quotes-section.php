@@ -10,7 +10,7 @@
         </div>
         <div class="row justify-content-center align-items-center g-4">
             <div class="col-md-6 d-flex justify-content-center mb-5">
-                <img src="https://via.placeholder.com/300x400" alt="Placeholder Image" />
+                <img src="asset/easter-quotes/display.png" width="400" alt="Placeholder Image" />
             </div>
             <div class="col-md-6">
                 <p id="headline-content">
