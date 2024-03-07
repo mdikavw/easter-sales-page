@@ -11,14 +11,15 @@
             <h1 id="headline">
                 Get Done-For-You Easter Product Bundle To Makes Instant Profit On Easter
             </h1>
-            <strong id="headline-caption">Limited-Time Offer on this Brand New Content with Complete Private Label <br>And Commercial Use Rights</strong><br><br>
-            <strong id="headline-caption">Profit from Stunning SVGs, Quotes, Stories, Video Templates, and Coloring Books! Sell and Resell for
-                Instant Success!</strong>
+            <strong id="headline-caption">Limited-Time Offer on this Brand New Content with Complete Private Label
+                <br>And Commercial Use Rights</strong><br><br>
         </div>
     </div>
     <div class="row my-4">
         <div class="col">
-            <button class="btn btn-info px-5 py-3 text-white d-flex justify-content-center align-items-center gap-3 rounded-5" onclick="document.getElementById('explore').scrollIntoView()">
+            <button
+                class="btn btn-info px-5 py-3 text-white d-flex justify-content-center align-items-center gap-3 rounded-5"
+                onclick="document.getElementById('explore').scrollIntoView()">
                 <strong class="fs-5">Explore</strong>
                 <i class="fas fa-angle-down fs-3"></i>
             </button>

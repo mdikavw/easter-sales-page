@@ -19,7 +19,6 @@
     </div>
     <div class="body-content">
         <?php include './includes/headline.php' ?>
-        <?php include './includes/cards.php' ?>
         <?php include './includes/welcome.php' ?>
         <?php include './includes/summary.php' ?>
         <?php include './includes/svg-section.php' ?>
