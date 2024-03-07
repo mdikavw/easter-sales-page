@@ -9,25 +9,25 @@
             <div class="accordion accordion-flush" id="accordionLeft">
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseOne">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
                             What is this product about?
                         </button>
                     </h5>
                     <div class="accordion-collapse collapse" id="collapseOne" data-bs-parent="#accordionLeft">
                         <div class="accordion-body">
                             <small>
-                                It’s the ultimate SVG designs bundle specialized for Valentine’s day. Provided in SVG,
-                                PNG,
-                                EPS, and DXF formats that you can use for your sublimation projects.
+                                Easter Kids Activity Bundle is a mega collection of various designs & illustrations to create an activity book for kids. <br><br>
+
+                                It’s specially designed for the “Easter” moment in 2024. <br><br>
+
+                                Provided in JPG, PNG, EPS, and PDF file formats that you can use to create your own publishing projects.
                             </small>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
                             Is this a software?
                         </button>
                     </h5>
@@ -43,8 +43,7 @@
                 </div>
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
                             What software do I need?
                         </button>
                     </h5>
@@ -59,8 +58,7 @@
                 </div>
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFour">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
                             What are the product licenses that we will get?
                         </button>
                     </h5>
@@ -78,8 +76,7 @@
             <div class="accordion accordion-flush" id="accordionRight">
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFive">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive">
                             Are there more Upsells and O.T.Os?
                         </button>
                     </h5>
@@ -96,8 +93,7 @@
                 </div>
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseSix">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix">
                             Can I re-brand and re-sell the products?
                         </button>
                     </h5>
@@ -110,8 +106,7 @@
                 </div>
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseSeven">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven">
                             Are there any refund policy?
                         </button>
                     </h5>
@@ -143,8 +138,7 @@
                 </div>
                 <div class="accordion-item">
                     <h5 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseEight">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight">
                             How to contact for support?
                         </button>
                     </h5>

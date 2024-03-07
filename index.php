@@ -18,7 +18,6 @@
     <?php include './includes/cards.php' ?>
     <?php include './includes/welcome.php' ?>
     <?php include './includes/summary.php' ?>
-    <?php include './includes/cta.php' ?>
     <?php include './includes/svg-section.php' ?>
     <?php include './includes/coloring-book-section.php' ?>
     <?php include './includes/quotes-section.php' ?>
@@ -28,7 +27,6 @@
     <?php include './includes/ideas.php'?>
     <?php include './includes/suggestion.php' ?>
     <?php include './includes/closing.php' ?>
-    <?php include './includes/purchase.php' ?>
     <?php include './includes/faq.php' ?>
 
     <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
