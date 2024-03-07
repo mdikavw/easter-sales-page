@@ -1,4 +1,4 @@
-<div class="container mb-5">
+<div class="container mb-5 bg-white">
     <div class="row justify-content-center">
         <div class="col text-center">
             <h2>Frequently Asked Questions</h2>

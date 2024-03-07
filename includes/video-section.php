@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-fluid bg-white">
     <div class="row video-section">
         <?php
         include 'includes/components/curved-bg.php'
