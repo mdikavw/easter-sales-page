@@ -14,21 +14,25 @@
 </head>
 
 <body>
-    <?php include './includes/headline.php' ?>
-    <?php include './includes/cards.php' ?>
-    <?php include './includes/welcome.php' ?>
-    <?php include './includes/summary.php' ?>
-    <?php include './includes/svg-section.php' ?>
-    <?php include './includes/coloring-book-section.php' ?>
-    <?php include './includes/quotes-section.php' ?>
-    <?php include './includes/story-section.php' ?>
-    <?php include './includes/video-section.php' ?>
-    <?php include './includes/cta.php' ?>
-    <?php include './includes/ideas.php'?>
-    <?php include './includes/suggestion.php' ?>
-    <?php include './includes/closing.php' ?>
-    <?php include './includes/faq.php' ?>
+    <div class="body-background">
 
+    </div>
+    <div class="body-content">
+        <?php include './includes/headline.php' ?>
+        <?php include './includes/cards.php' ?>
+        <?php include './includes/welcome.php' ?>
+        <?php include './includes/summary.php' ?>
+        <?php include './includes/svg-section.php' ?>
+        <?php include './includes/coloring-book-section.php' ?>
+        <?php include './includes/quotes-section.php' ?>
+        <?php include './includes/story-section.php' ?>
+        <?php include './includes/video-section.php' ?>
+        <?php include './includes/cta.php' ?>
+        <?php include './includes/ideas.php'?>
+        <?php include './includes/suggestion.php' ?>
+        <?php include './includes/closing.php' ?>
+        <?php include './includes/faq.php' ?>
+    </div>
     <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 
 </body>
