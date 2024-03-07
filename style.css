@@ -158,6 +158,10 @@ img {
 	background-attachment: fixed;
 }
 
+.welcome-section {
+	background-image: none;
+}
+
 #ideas {
 	position: relative;
 	overflow: hidden;
@@ -364,4 +368,38 @@ img {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 900;
 	font-style: italic;
+}
+
+.cta {
+	position: relative;
+}
+
+.cta-background {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 10%;
+	background-image: url(asset/bg-easter.webp);
+	background-position: center;
+	background-attachment: fixed;
+	z-index: 0;
+}
+
+.closing {
+	position: relative;
+}
+
+.closing-background {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 10%;
+	background-image: url(asset/bg-easter.webp);
+	background-position: center;
+	background-attachment: fixed;
+	z-index: 0;
 }

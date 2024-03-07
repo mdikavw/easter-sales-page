@@ -1,4 +1,7 @@
-<div class="container-fluid py-5 px-4 bg-primary">
+<div class="container-fluid py-5 px-4 bg-primary closing">
+    <div class="closing-background">
+        
+    </div>
     <div class="d-flex flex-column justify-content-center align-items-center text-center text-white">
         <h1 class="mb-3 fw-semibold mb-5" style="line-height: 55px;">
             Don't Wait Any Longer...
